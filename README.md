@@ -119,4 +119,6 @@ An error of `0.0000 ms` means the estimated delay equals the actual delay at the
 
 ## License
 
-This project is provided for educational and demonstration purposes. Add a license of your choice if you plan to distribute it publicly.
+MIT License
+
+Copyright (c) 2026 25ec412-crypto
